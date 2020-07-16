@@ -1,0 +1,25 @@
+{
+  "name": "rsi-react-native-zebra-bt-printer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "CoreBluetooth",
+    "zebra-printers",
+    "BLE",
+    "rsi-react-native-zebra-bt-printer"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
